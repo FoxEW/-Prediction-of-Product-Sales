@@ -19,7 +19,7 @@ Stakeholder requirement:
 
 ![image](https://github.com/FoxEW/Prediction-of-Product-Sales/assets/138833063/a4f70301-0559-4675-8f63-695a5739f524)
 
-Countplot that indicates the numbe of Item Types that are available per Outlet Type - indicating that Fruit & Veg is the highest in the Supermarket Type 1 grouping
+Countplot that indicates the number of Item Types that are available per Outlet Type - indicating that Fruit & Veg is the highest in the Supermarket Type 1 grouping
 
 
 ![image](https://github.com/FoxEW/Prediction-of-Product-Sales/assets/138833063/e2aa4123-d408-4ad4-a6d1-21b805302c1d)
@@ -35,7 +35,7 @@ Heatmap:  This indicates that there is a positive correlation between Item Outle
 ![image](https://github.com/FoxEW/Prediction-of-Product-Sales/assets/138833063/609acfe4-7215-4a21-9cd3-98c937cf81c8)
 
 
-### Random Forrest
+### Random Forest
 
 ![image](https://github.com/FoxEW/Prediction-of-Product-Sales/assets/138833063/b4fbe216-f51d-4411-b939-7e12982f9727)
 
